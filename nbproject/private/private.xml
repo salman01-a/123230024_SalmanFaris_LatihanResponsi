@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Dosen/InputData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Mahasiswa/ModelTable.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Mahasiswa/InterfaceDAOMahasiswa.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Mahasiswa/DAOMahasiswa.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Mahasiswa/ViewData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Dosen/ModelTable.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Dosen/EditData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Controller/ControllerMahasiswa.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Mahasiswa/EditData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Dosen/DAODosen.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Main/Main.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Mahasiswa/InputData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Controller/ControllerDosen.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Dosen/ModelDosen.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Main/HalamanAwal.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/View/Dosen/ViewData.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Mahasiswa/ModelMahasiswa.java</file>
+            <file>file:/Users/salmanfaris/NetBeansProjects/pert84/src/Model/Dosen/InterfaceDAODosen.java</file>
+        </group>
+    </open-files>
+</project-private>
