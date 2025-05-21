@@ -1,0 +1,1 @@
+# 123230024_SalmanFaris_LatihanResponsi
